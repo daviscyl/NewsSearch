@@ -1,0 +1,24 @@
+.landing-page {
+  justify-content: center;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 2em;
+}
+
+#search-bar {
+  width: 96%;
+  margin: auto;
+  margin-top: 1em;
+  display: flex;
+}
+
+.ant-select {
+  flex-grow: 1;
+}
+
+.head-lines {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
